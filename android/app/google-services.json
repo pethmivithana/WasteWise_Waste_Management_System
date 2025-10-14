@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "925170834799",
+    "project_id": "csse-20ccc",
+    "storage_bucket": "csse-20ccc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925170834799:android:8723ce48080e046a295c9a",
+        "android_client_info": {
+          "package_name": "com.example.csse_waste_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRdf_VhONOUpTXaKFHyV2QX76vSUZrSeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
