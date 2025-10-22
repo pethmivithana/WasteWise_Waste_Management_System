@@ -1,4 +1,4 @@
-# ♻️ CSSE Waste Management System
+# ♻️ WasteWise - CSSE Waste Management System
 
 A modern, user-friendly mobile application built with Flutter that revolutionizes waste management through tracking, reminders, rewards, and educational content.
 
